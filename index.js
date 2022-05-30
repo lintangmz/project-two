@@ -1,3 +1,3 @@
-const luasSegitga = require ('./segitiga')
+import luasSegitiga from './segitiga.js'
 
-console.log(luasSegitga(4, 3))
+console.log(luasSegitiga(4, 3))
